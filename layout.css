@@ -12,31 +12,13 @@ h1 {
 
 p {
   font-family: 'Lato', sans-serif;
-  font-size: 1.3em;
+  font-size: 1.25em;
   color: white;
 }
 
 p a {
   color: white;
 }
-
-/*.btn {
-  font-family: 'Lato', sans-serif;
-  color: white;
-  border: 1px solid white;
-  padding: .5em 1em;
-  margin-top: 2.5em;
-  font-size: 1em;
-  display: block;
-  width: fit-content;
-  text-decoration: none;
-  border-radius: 3px;
-}
-
-.btn:hover {
-  color: black;
-  background-color: white;
-}*/
 
 .background {
   width: 100vw;
