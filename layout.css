@@ -16,7 +16,11 @@ p {
   color: white;
 }
 
-.btn {
+p a {
+  color: white;
+}
+
+/*.btn {
   font-family: 'Lato', sans-serif;
   color: white;
   border: 1px solid white;
@@ -32,7 +36,7 @@ p {
 .btn:hover {
   color: black;
   background-color: white;
-}
+}*/
 
 .background {
   width: 100vw;
