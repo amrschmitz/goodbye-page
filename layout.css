@@ -45,12 +45,27 @@ p a {
 
 @media screen and (max-width: 600px) {
   h1 {
-    font-size: 3em;
+    font-size: 2.5em;
+  }
+  p {
+    font-size: 1.15em;
   }
   .text-area {
     margin-top: -5em;
   }
   .logo {
     width: 8em;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  h1 {
+    font-size: 2em;
+  }
+  .text-area {
+    margin-top: -4em;
+  }
+  .logo {
+    width: 6em;
   }
 }
